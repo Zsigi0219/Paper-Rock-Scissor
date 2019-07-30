@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\bin\Debug\paper_rock_scissors.exe.config
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\bin\Debug\paper_rock_scissors.exe
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\bin\Debug\paper_rock_scissors.pdb
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\obj\Debug\paper_rock_scissors.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\obj\Debug\paper_rock_scissors.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\obj\Debug\paper_rock_scissors.exe
+C:\Users\dex02\source\repos\paper_rock_scissors\paper_rock_scissors\obj\Debug\paper_rock_scissors.pdb
